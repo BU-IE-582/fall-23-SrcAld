@@ -1,4 +1,4 @@
-## Welcome to Page of My Project
+## Welcome to page for my projects
 
 Please check my projects below
 
