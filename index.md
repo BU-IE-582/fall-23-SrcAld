@@ -6,8 +6,6 @@ Please check my projects below
 
 I like bringing traditional consulting approaches with analytics. Certain areas I am interested in are
 
-```markdown
-To achieve
 
 # Assortment optimization
 # Promotion optimization
